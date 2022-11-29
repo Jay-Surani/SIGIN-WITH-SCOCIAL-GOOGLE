@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95657242131",
+    "project_id": "singinmethod",
+    "storage_bucket": "singinmethod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95657242131:android:9bedf628cc8fbd4a2719e6",
+        "android_client_info": {
+          "package_name": "com.example.singinmethods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95657242131-sdums63c820tcvuac65skttc6l9aa3tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacHRR7NyMMTtxQ85qMiZAKZItrW4XiYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95657242131-sdums63c820tcvuac65skttc6l9aa3tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
